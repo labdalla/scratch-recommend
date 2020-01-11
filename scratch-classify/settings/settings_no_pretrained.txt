@@ -1,0 +1,6 @@
+type: supervised
+input: dataset/classification_train.txt
+dim: 128
+epoch: 50
+lr: 0.05
+output: model/classification_500000_no_pretrained_vectors

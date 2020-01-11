@@ -1,0 +1,10 @@
+type: unsupervised
+model_type: cbow
+input: dataset/train_500000.txt
+minCount: 5
+dim: 128
+minn: 3
+maxn: 6
+epoch: 5
+lr: 0.05
+output: word_vectors/train_500000_cbow

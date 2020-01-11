@@ -1,0 +1,7 @@
+type: supervised
+input: dataset/classification_train.txt
+dim: 128
+epoch: 50
+lr: 0.05
+pretrainedVectors: ../scratch-vectorize/word_vectors/train_500000.vec
+output: model/classification_500000

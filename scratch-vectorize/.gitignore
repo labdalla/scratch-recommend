@@ -1,0 +1,5 @@
+.DS_Store
+
+/dataset/*
+/model/*
+/word_vectors/*

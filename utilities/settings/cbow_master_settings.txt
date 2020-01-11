@@ -1,0 +1,1440 @@
+#### COMBINATION 1 ####
+model_type: cbow
+minCount: 1
+dim: 50
+minn: 1
+maxn: 5
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_1
+
+#### COMBINATION 2 ####
+model_type: cbow
+minCount: 1
+dim: 50
+minn: 1
+maxn: 5
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_2
+
+#### COMBINATION 3 ####
+model_type: cbow
+minCount: 1
+dim: 50
+minn: 1
+maxn: 5
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_3
+
+#### COMBINATION 4 ####
+model_type: cbow
+minCount: 1
+dim: 50
+minn: 1
+maxn: 5
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_4
+
+#### COMBINATION 5 ####
+model_type: cbow
+minCount: 1
+dim: 50
+minn: 1
+maxn: 8
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_5
+
+#### COMBINATION 6 ####
+model_type: cbow
+minCount: 1
+dim: 50
+minn: 1
+maxn: 8
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_6
+
+#### COMBINATION 7 ####
+model_type: cbow
+minCount: 1
+dim: 50
+minn: 1
+maxn: 8
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_7
+
+#### COMBINATION 8 ####
+model_type: cbow
+minCount: 1
+dim: 50
+minn: 1
+maxn: 8
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_8
+
+#### COMBINATION 9 ####
+model_type: cbow
+minCount: 1
+dim: 50
+minn: 1
+maxn: 10
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_9
+
+#### COMBINATION 10 ####
+model_type: cbow
+minCount: 1
+dim: 50
+minn: 1
+maxn: 10
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_10
+
+#### COMBINATION 11 ####
+model_type: cbow
+minCount: 1
+dim: 50
+minn: 1
+maxn: 10
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_11
+
+#### COMBINATION 12 ####
+model_type: cbow
+minCount: 1
+dim: 50
+minn: 1
+maxn: 10
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_12
+
+#### COMBINATION 13 ####
+model_type: cbow
+minCount: 1
+dim: 64
+minn: 1
+maxn: 5
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_13
+
+#### COMBINATION 14 ####
+model_type: cbow
+minCount: 1
+dim: 64
+minn: 1
+maxn: 5
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_14
+
+#### COMBINATION 15 ####
+model_type: cbow
+minCount: 1
+dim: 64
+minn: 1
+maxn: 5
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_15
+
+#### COMBINATION 16 ####
+model_type: cbow
+minCount: 1
+dim: 64
+minn: 1
+maxn: 5
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_16
+
+#### COMBINATION 17 ####
+model_type: cbow
+minCount: 1
+dim: 64
+minn: 1
+maxn: 8
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_17
+
+#### COMBINATION 18 ####
+model_type: cbow
+minCount: 1
+dim: 64
+minn: 1
+maxn: 8
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_18
+
+#### COMBINATION 19 ####
+model_type: cbow
+minCount: 1
+dim: 64
+minn: 1
+maxn: 8
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_19
+
+#### COMBINATION 20 ####
+model_type: cbow
+minCount: 1
+dim: 64
+minn: 1
+maxn: 8
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_20
+
+#### COMBINATION 21 ####
+model_type: cbow
+minCount: 1
+dim: 64
+minn: 1
+maxn: 10
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_21
+
+#### COMBINATION 22 ####
+model_type: cbow
+minCount: 1
+dim: 64
+minn: 1
+maxn: 10
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_22
+
+#### COMBINATION 23 ####
+model_type: cbow
+minCount: 1
+dim: 64
+minn: 1
+maxn: 10
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_23
+
+#### COMBINATION 24 ####
+model_type: cbow
+minCount: 1
+dim: 64
+minn: 1
+maxn: 10
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_24
+
+#### COMBINATION 25 ####
+model_type: cbow
+minCount: 1
+dim: 128
+minn: 1
+maxn: 5
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_25
+
+#### COMBINATION 26 ####
+model_type: cbow
+minCount: 1
+dim: 128
+minn: 1
+maxn: 5
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_26
+
+#### COMBINATION 27 ####
+model_type: cbow
+minCount: 1
+dim: 128
+minn: 1
+maxn: 5
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_27
+
+#### COMBINATION 28 ####
+model_type: cbow
+minCount: 1
+dim: 128
+minn: 1
+maxn: 5
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_28
+
+#### COMBINATION 29 ####
+model_type: cbow
+minCount: 1
+dim: 128
+minn: 1
+maxn: 8
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_29
+
+#### COMBINATION 30 ####
+model_type: cbow
+minCount: 1
+dim: 128
+minn: 1
+maxn: 8
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_30
+
+#### COMBINATION 31 ####
+model_type: cbow
+minCount: 1
+dim: 128
+minn: 1
+maxn: 8
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_31
+
+#### COMBINATION 32 ####
+model_type: cbow
+minCount: 1
+dim: 128
+minn: 1
+maxn: 8
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_32
+
+#### COMBINATION 33 ####
+model_type: cbow
+minCount: 1
+dim: 128
+minn: 1
+maxn: 10
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_33
+
+#### COMBINATION 34 ####
+model_type: cbow
+minCount: 1
+dim: 128
+minn: 1
+maxn: 10
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_34
+
+#### COMBINATION 35 ####
+model_type: cbow
+minCount: 1
+dim: 128
+minn: 1
+maxn: 10
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_35
+
+#### COMBINATION 36 ####
+model_type: cbow
+minCount: 1
+dim: 128
+minn: 1
+maxn: 10
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_36
+
+#### COMBINATION 37 ####
+model_type: cbow
+minCount: 1
+dim: 175
+minn: 1
+maxn: 5
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_37
+
+#### COMBINATION 38 ####
+model_type: cbow
+minCount: 1
+dim: 175
+minn: 1
+maxn: 5
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_38
+
+#### COMBINATION 39 ####
+model_type: cbow
+minCount: 1
+dim: 175
+minn: 1
+maxn: 5
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_39
+
+#### COMBINATION 40 ####
+model_type: cbow
+minCount: 1
+dim: 175
+minn: 1
+maxn: 5
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_40
+
+#### COMBINATION 41 ####
+model_type: cbow
+minCount: 1
+dim: 175
+minn: 1
+maxn: 8
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_41
+
+#### COMBINATION 42 ####
+model_type: cbow
+minCount: 1
+dim: 175
+minn: 1
+maxn: 8
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_42
+
+#### COMBINATION 43 ####
+model_type: cbow
+minCount: 1
+dim: 175
+minn: 1
+maxn: 8
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_43
+
+#### COMBINATION 44 ####
+model_type: cbow
+minCount: 1
+dim: 175
+minn: 1
+maxn: 8
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_44
+
+#### COMBINATION 45 ####
+model_type: cbow
+minCount: 1
+dim: 175
+minn: 1
+maxn: 10
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_45
+
+#### COMBINATION 46 ####
+model_type: cbow
+minCount: 1
+dim: 175
+minn: 1
+maxn: 10
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_46
+
+#### COMBINATION 47 ####
+model_type: cbow
+minCount: 1
+dim: 175
+minn: 1
+maxn: 10
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_47
+
+#### COMBINATION 48 ####
+model_type: cbow
+minCount: 1
+dim: 175
+minn: 1
+maxn: 10
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_48
+
+#### COMBINATION 49 ####
+model_type: cbow
+minCount: 1
+dim: 200
+minn: 1
+maxn: 5
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_49
+
+#### COMBINATION 50 ####
+model_type: cbow
+minCount: 1
+dim: 200
+minn: 1
+maxn: 5
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_50
+
+#### COMBINATION 51 ####
+model_type: cbow
+minCount: 1
+dim: 200
+minn: 1
+maxn: 5
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_51
+
+#### COMBINATION 52 ####
+model_type: cbow
+minCount: 1
+dim: 200
+minn: 1
+maxn: 5
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_52
+
+#### COMBINATION 53 ####
+model_type: cbow
+minCount: 1
+dim: 200
+minn: 1
+maxn: 8
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_53
+
+#### COMBINATION 54 ####
+model_type: cbow
+minCount: 1
+dim: 200
+minn: 1
+maxn: 8
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_54
+
+#### COMBINATION 55 ####
+model_type: cbow
+minCount: 1
+dim: 200
+minn: 1
+maxn: 8
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_55
+
+#### COMBINATION 56 ####
+model_type: cbow
+minCount: 1
+dim: 200
+minn: 1
+maxn: 8
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_56
+
+#### COMBINATION 57 ####
+model_type: cbow
+minCount: 1
+dim: 200
+minn: 1
+maxn: 10
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_57
+
+#### COMBINATION 58 ####
+model_type: cbow
+minCount: 1
+dim: 200
+minn: 1
+maxn: 10
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_58
+
+#### COMBINATION 59 ####
+model_type: cbow
+minCount: 1
+dim: 200
+minn: 1
+maxn: 10
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_59
+
+#### COMBINATION 60 ####
+model_type: cbow
+minCount: 1
+dim: 200
+minn: 1
+maxn: 10
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_60
+
+#### COMBINATION 61 ####
+model_type: cbow
+minCount: 5
+dim: 50
+minn: 1
+maxn: 5
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_61
+
+#### COMBINATION 62 ####
+model_type: cbow
+minCount: 5
+dim: 50
+minn: 1
+maxn: 5
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_62
+
+#### COMBINATION 63 ####
+model_type: cbow
+minCount: 5
+dim: 50
+minn: 1
+maxn: 5
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_63
+
+#### COMBINATION 64 ####
+model_type: cbow
+minCount: 5
+dim: 50
+minn: 1
+maxn: 5
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_64
+
+#### COMBINATION 65 ####
+model_type: cbow
+minCount: 5
+dim: 50
+minn: 1
+maxn: 8
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_65
+
+#### COMBINATION 66 ####
+model_type: cbow
+minCount: 5
+dim: 50
+minn: 1
+maxn: 8
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_66
+
+#### COMBINATION 67 ####
+model_type: cbow
+minCount: 5
+dim: 50
+minn: 1
+maxn: 8
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_67
+
+#### COMBINATION 68 ####
+model_type: cbow
+minCount: 5
+dim: 50
+minn: 1
+maxn: 8
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_68
+
+#### COMBINATION 69 ####
+model_type: cbow
+minCount: 5
+dim: 50
+minn: 1
+maxn: 10
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_69
+
+#### COMBINATION 70 ####
+model_type: cbow
+minCount: 5
+dim: 50
+minn: 1
+maxn: 10
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_70
+
+#### COMBINATION 71 ####
+model_type: cbow
+minCount: 5
+dim: 50
+minn: 1
+maxn: 10
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_71
+
+#### COMBINATION 72 ####
+model_type: cbow
+minCount: 5
+dim: 50
+minn: 1
+maxn: 10
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_72
+
+#### COMBINATION 73 ####
+model_type: cbow
+minCount: 5
+dim: 64
+minn: 1
+maxn: 5
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_73
+
+#### COMBINATION 74 ####
+model_type: cbow
+minCount: 5
+dim: 64
+minn: 1
+maxn: 5
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_74
+
+#### COMBINATION 75 ####
+model_type: cbow
+minCount: 5
+dim: 64
+minn: 1
+maxn: 5
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_75
+
+#### COMBINATION 76 ####
+model_type: cbow
+minCount: 5
+dim: 64
+minn: 1
+maxn: 5
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_76
+
+#### COMBINATION 77 ####
+model_type: cbow
+minCount: 5
+dim: 64
+minn: 1
+maxn: 8
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_77
+
+#### COMBINATION 78 ####
+model_type: cbow
+minCount: 5
+dim: 64
+minn: 1
+maxn: 8
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_78
+
+#### COMBINATION 79 ####
+model_type: cbow
+minCount: 5
+dim: 64
+minn: 1
+maxn: 8
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_79
+
+#### COMBINATION 80 ####
+model_type: cbow
+minCount: 5
+dim: 64
+minn: 1
+maxn: 8
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_80
+
+#### COMBINATION 81 ####
+model_type: cbow
+minCount: 5
+dim: 64
+minn: 1
+maxn: 10
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_81
+
+#### COMBINATION 82 ####
+model_type: cbow
+minCount: 5
+dim: 64
+minn: 1
+maxn: 10
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_82
+
+#### COMBINATION 83 ####
+model_type: cbow
+minCount: 5
+dim: 64
+minn: 1
+maxn: 10
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_83
+
+#### COMBINATION 84 ####
+model_type: cbow
+minCount: 5
+dim: 64
+minn: 1
+maxn: 10
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_84
+
+#### COMBINATION 85 ####
+model_type: cbow
+minCount: 5
+dim: 128
+minn: 1
+maxn: 5
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_85
+
+#### COMBINATION 86 ####
+model_type: cbow
+minCount: 5
+dim: 128
+minn: 1
+maxn: 5
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_86
+
+#### COMBINATION 87 ####
+model_type: cbow
+minCount: 5
+dim: 128
+minn: 1
+maxn: 5
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_87
+
+#### COMBINATION 88 ####
+model_type: cbow
+minCount: 5
+dim: 128
+minn: 1
+maxn: 5
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_88
+
+#### COMBINATION 89 ####
+model_type: cbow
+minCount: 5
+dim: 128
+minn: 1
+maxn: 8
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_89
+
+#### COMBINATION 90 ####
+model_type: cbow
+minCount: 5
+dim: 128
+minn: 1
+maxn: 8
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_90
+
+#### COMBINATION 91 ####
+model_type: cbow
+minCount: 5
+dim: 128
+minn: 1
+maxn: 8
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_91
+
+#### COMBINATION 92 ####
+model_type: cbow
+minCount: 5
+dim: 128
+minn: 1
+maxn: 8
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_92
+
+#### COMBINATION 93 ####
+model_type: cbow
+minCount: 5
+dim: 128
+minn: 1
+maxn: 10
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_93
+
+#### COMBINATION 94 ####
+model_type: cbow
+minCount: 5
+dim: 128
+minn: 1
+maxn: 10
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_94
+
+#### COMBINATION 95 ####
+model_type: cbow
+minCount: 5
+dim: 128
+minn: 1
+maxn: 10
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_95
+
+#### COMBINATION 96 ####
+model_type: cbow
+minCount: 5
+dim: 128
+minn: 1
+maxn: 10
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_96
+
+#### COMBINATION 97 ####
+model_type: cbow
+minCount: 5
+dim: 175
+minn: 1
+maxn: 5
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_97
+
+#### COMBINATION 98 ####
+model_type: cbow
+minCount: 5
+dim: 175
+minn: 1
+maxn: 5
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_98
+
+#### COMBINATION 99 ####
+model_type: cbow
+minCount: 5
+dim: 175
+minn: 1
+maxn: 5
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_99
+
+#### COMBINATION 100 ####
+model_type: cbow
+minCount: 5
+dim: 175
+minn: 1
+maxn: 5
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_100
+
+#### COMBINATION 101 ####
+model_type: cbow
+minCount: 5
+dim: 175
+minn: 1
+maxn: 8
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_101
+
+#### COMBINATION 102 ####
+model_type: cbow
+minCount: 5
+dim: 175
+minn: 1
+maxn: 8
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_102
+
+#### COMBINATION 103 ####
+model_type: cbow
+minCount: 5
+dim: 175
+minn: 1
+maxn: 8
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_103
+
+#### COMBINATION 104 ####
+model_type: cbow
+minCount: 5
+dim: 175
+minn: 1
+maxn: 8
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_104
+
+#### COMBINATION 105 ####
+model_type: cbow
+minCount: 5
+dim: 175
+minn: 1
+maxn: 10
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_105
+
+#### COMBINATION 106 ####
+model_type: cbow
+minCount: 5
+dim: 175
+minn: 1
+maxn: 10
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_106
+
+#### COMBINATION 107 ####
+model_type: cbow
+minCount: 5
+dim: 175
+minn: 1
+maxn: 10
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_107
+
+#### COMBINATION 108 ####
+model_type: cbow
+minCount: 5
+dim: 175
+minn: 1
+maxn: 10
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_108
+
+#### COMBINATION 109 ####
+model_type: cbow
+minCount: 5
+dim: 200
+minn: 1
+maxn: 5
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_109
+
+#### COMBINATION 110 ####
+model_type: cbow
+minCount: 5
+dim: 200
+minn: 1
+maxn: 5
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_110
+
+#### COMBINATION 111 ####
+model_type: cbow
+minCount: 5
+dim: 200
+minn: 1
+maxn: 5
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_111
+
+#### COMBINATION 112 ####
+model_type: cbow
+minCount: 5
+dim: 200
+minn: 1
+maxn: 5
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_112
+
+#### COMBINATION 113 ####
+model_type: cbow
+minCount: 5
+dim: 200
+minn: 1
+maxn: 8
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_113
+
+#### COMBINATION 114 ####
+model_type: cbow
+minCount: 5
+dim: 200
+minn: 1
+maxn: 8
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_114
+
+#### COMBINATION 115 ####
+model_type: cbow
+minCount: 5
+dim: 200
+minn: 1
+maxn: 8
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_115
+
+#### COMBINATION 116 ####
+model_type: cbow
+minCount: 5
+dim: 200
+minn: 1
+maxn: 8
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_116
+
+#### COMBINATION 117 ####
+model_type: cbow
+minCount: 5
+dim: 200
+minn: 1
+maxn: 10
+epoch: 5
+lr: 0.1
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_117
+
+#### COMBINATION 118 ####
+model_type: cbow
+minCount: 5
+dim: 200
+minn: 1
+maxn: 10
+epoch: 10
+lr: 0.05
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_118
+
+#### COMBINATION 119 ####
+model_type: cbow
+minCount: 5
+dim: 200
+minn: 1
+maxn: 10
+epoch: 25
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_119
+
+#### COMBINATION 120 ####
+model_type: cbow
+minCount: 5
+dim: 200
+minn: 1
+maxn: 10
+epoch: 50
+lr: 0.01
+type: unsupervised
+input: ../scratch-vectorize/dataset/train_500000.txt
+output: ../scratch-vectorize/word_vectors/cbow_combination_120
+
